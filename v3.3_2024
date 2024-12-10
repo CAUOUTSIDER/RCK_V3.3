@@ -4769,6 +4769,69 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTVLCOPT:http-referrer=https://yeslivetv.iaovivo.com/
 https://yeslivetv.scdn.eu.org/live/litv-longturn07.m3u8?token=HG6VJ1sKRaWsxk_q4u1i4w&expires=1733746439
 
+
+<========================= SPORTS 4K ===================================>
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7lxofw1656964140.png" group-title="Sports 4K", SuperSport Football
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://thedaddy.to/stream/stream-332.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium56/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" group-title="Sports 4K", Sky Sports Premier League UK
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://thedaddy.to/stream/stream-332.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium130/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/5989b579420c3c1917b60396/1693896637067/star%20sports%20ten%201_logo.svg?tx=w_350" group-title="Sports 4K", Sony Sports Ten 1 HD
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://thedaddy.to/stream/stream-332.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium885/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/17/Sport_TV2_ID_2008.png/revision/latest/scale-to-width-down/1200?cb=20231130023511" group-title="Sports 4K", SporTV2
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://thedaddy.to/stream/stream-332.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium79/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Polsat_Sport_1_2024_ltr_horizontal.svg/revision/latest/smart/width/300/height/168?cb=20240725145258&path-prefix=uk" group-title="Sports 4K", Polsat Sport 1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://thedaddy.to/stream/stream-332.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium47/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Przechwytywanie5.PNG/revision/latest?cb=20160525153416" group-title="Sports 4K", Polsat Sport 2
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://thedaddy.to/stream/stream-332.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium50/index.m3u8
+
+#EXTINF:-1 tvg-logo=https://static.wikia.nocookie.net/logopedia/images/2/2b/Przechwytywanie4.PNG/revision/latest?cb=20160525152620" group-title="Sports 4K", Polsat Sport 3
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://thedaddy.to/stream/stream-332.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium129/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://absport.hr/wp-content/uploads/2024/05/sport-klub.jpg?x34871" group-title="Sports 4K", SK 1 HD
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://thedaddy.to/stream/stream-332.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium101/index.m3u8
+
+#EXTINF:-1 tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Gxq8IMXZzfDmX9NTrWNHHKshVGesLPuZUQ&s" group-title="Sports 4K", МАТЧ! БОЕЦ Russia
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://thedaddy.to/stream/stream-332.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium395/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Sports 4K", Premier Sport 1 UK
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://thedaddy.to/stream/stream-332.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium451/index.m3u8
+
+
 <========================= HBO Group ===================================>
 #EXTINF:-1 tvg-logo="https://img.freepik.com/free-vector/warning-sign-with-warning-word_78370-4060.jpg?semt=ais_hybrid" group-title="HBO GROUP", MOHON DIBACA
 https://mastertv.tech/VOD/SERIES/IndukGajahS2/informasi.mp4
